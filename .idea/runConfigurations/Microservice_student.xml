@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Microservice-student" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
     <module name="microservice.student" />
-    <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservice.student.Application" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservice.student.MicroserviceStudentApplication" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>
